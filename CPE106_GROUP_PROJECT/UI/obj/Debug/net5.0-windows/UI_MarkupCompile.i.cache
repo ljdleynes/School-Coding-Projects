@@ -1,0 +1,20 @@
+﻿UI
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\
+UI
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\User\Documents\Library Management System\Mod3\UI\App.xaml
+161016042631
+
+282129593832
+194-702473920
+AdminView.xaml;ClickButtons\Library.xaml;ClickButtons\ListLogs.xaml;ClickButtons\Profile.xaml;LogIn.xaml;MVVM\View\AdminView\AdminLibraryView.xaml;MVVM\View\AdminView\AdminList\AdminList.xaml;MVVM\View\AdminView\AdminList\AllBooks (Window1).xaml;MVVM\View\AdminView\AdminList\BorrowedBooksMonth.xaml;MVVM\View\AdminView\AdminList\GenerateList.xaml;MVVM\View\AdminView\AdminList\GenreBooks.xaml;MVVM\View\AdminView\AdminList\Manage.xaml;MVVM\View\AdminView\AdminList\ManageBorrowers.xaml;MVVM\View\AdminView\AdminLogs.xaml;MVVM\View\AdminView\AdminProfileView.xaml;SignUpWindow.xaml;
+
+True
+

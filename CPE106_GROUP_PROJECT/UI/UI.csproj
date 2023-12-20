@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataClasses1.designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="DataClasses1.dbml" />
+    <None Remove="Images\2232688.png" />
+    <None Remove="Images\Books.png" />
+    <None Remove="Images\EditProf.png" />
+    <None Remove="Images\KidReading.png" />
+    <None Remove="Images\login.png" />
+    <None Remove="Images\ManBook.png" />
+    <None Remove="Images\Screenshot.jpg" />
+    <None Remove="Images\Search.png" />
+    <None Remove="Images\searchglass.png" />
+    <None Remove="Images\signup.png" />
+    <None Remove="Images\theater.png" />
+    <None Remove="Images\Untitled design.png" />
+    <None Remove="MVVM\View\AdminView\AdminList.xaml~RF1db53a2b.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="ClickButtons\SearchBox.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\2232688.png" />
+    <Resource Include="Images\Books.png" />
+    <Resource Include="Images\EditProf.png" />
+    <Resource Include="Images\KidReading.png" />
+    <Resource Include="Images\login.png" />
+    <Resource Include="Images\ManBook.png" />
+    <Resource Include="Images\Screenshot.jpg" />
+    <Resource Include="Images\Search.png" />
+    <Resource Include="Images\searchglass.png" />
+    <Resource Include="Images\signup.png" />
+    <Resource Include="Images\theater.png" />
+    <Resource Include="Images\Untitled design.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{3259aa49-8aa1-44d3-9025-a0b520596a8c}" />
+  </ItemGroup>
+
+  
+
+  
+
+
+</Project>

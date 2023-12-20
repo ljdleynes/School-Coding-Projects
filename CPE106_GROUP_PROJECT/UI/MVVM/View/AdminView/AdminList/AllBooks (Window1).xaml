@@ -1,0 +1,64 @@
+﻿<Window x:Class="UI.MVVM.View.AllBooks__Window1_"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.MVVM.View"
+        mc:Ignorable="d"
+         ResizeMode="NoResize"
+        Title="Manage And Generate List Of All Books" Height="800" Width="1200">
+
+    <Grid Margin="0,0,0,-6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="107*"/>
+            <RowDefinition Height="157*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="44*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BorderThickness="5"
+                  x:Name="AllBooksDataGrid" Background="White" RowBackground="White" AlternatingRowBackground="LightGray" 
+                  HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" AutoGenerateColumns="False"
+                  AlternationCount="2" CanUserAddRows="False" Grid.RowSpan="3" IsReadOnly="True" Margin="0,12,304,72" >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Book ID" Width="80" Binding="{Binding BookId}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Book Title" Width="200" Binding="{Binding bookName}"></DataGridTextColumn>
+                <DataGridTextColumn Header ="Genre" Width="170" Binding="{Binding bookGenre}"></DataGridTextColumn>
+                <DataGridTextColumn Header ="Author" Width="200" Binding="{Binding author}"></DataGridTextColumn>
+                <DataGridTextColumn Header ="Publication Date" Width="200" Binding="{Binding publicationDate}"></DataGridTextColumn>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+        <TextBlock Text="Book Title:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="105,0,0,0" />
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="2,2,2,2" x:Name="BookTitleAdd" />
+
+        <TextBlock Text="Genre:" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="114,0,0,0" />
+        <TextBox Grid.Row="3" Grid.Column="1" Margin="2,2,2,2" x:Name="GenreAdd" />
+
+        <TextBlock Text="Author:" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="112,0,0,0" />
+        <TextBox Grid.Row="4" Grid.Column="1" Margin="2,2,2,2" x:Name="AuthorAdd" />
+
+        <TextBlock Text="Publication Date (YYYY-MM-DD):" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+        <TextBox Grid.Row="5" Grid.Column="1" Margin="2,2,2,2" x:Name="PublicationAdd" />
+
+        <Button Grid.Row="6" Grid.Column="1" Content="Add" Height ="40" Width="150" Margin="140,2,300,2" x:Name="btnAdd" 
+                Click="btnAdd_Click"/>
+        <StackPanel Grid.ColumnSpan="2" Margin="0,0,0,151">
+        </StackPanel>
+        <TextBlock Text="Delete Row (Enter Book ID):" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="693,87,0,0" />
+        <TextBox x:Name="deleteField" Grid.Column="1" HorizontalAlignment="Left" Margin="734,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Delete" Width="150" Margin="719,47,91,160" Click="btnDelete_Click" />
+        <Button Grid.Row="1" Grid.Column="1" Content="Refresh" Width="150" Margin="719,181,91,36" Click="RefreshTable" />
+
+
+    </Grid>
+</Window>

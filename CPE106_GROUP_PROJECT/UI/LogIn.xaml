@@ -1,0 +1,48 @@
+﻿<Window x:Class="UI.LogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="800" Width="920" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/login.png"/>
+    </Window.Background>
+    <Border Background="Black" CornerRadius="20" Margin="20,20,450,20" RenderTransformOrigin="0.5,0.5">
+        <Border.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform AngleY="-0.186"/>
+                <RotateTransform/>
+                <TranslateTransform Y="-0.747"/>
+            </TransformGroup>
+        </Border.RenderTransform>
+        <StackPanel Margin="20">
+            <StackPanel Margin="20 100">
+                <TextBlock Text="Library Staff Login" Margin="20" Foreground="White" TextAlignment="Center" FontSize="25" FontFamily="JPCS Engineering Font"/>
+                <Separator></Separator>
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <TextBlock Text="Username: " Margin="10 0" Foreground="Gray" TextAlignment="Left" FontSize="25" FontFamily="Times New Roman" Opacity="0.8 "/>
+                    <TextBox Name="txtUsername" Margin="5 0"  Foreground="Black" Width="250" FontSize="20" KeyDown="txtUsername_KeyDown"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <TextBlock Text="Password: " Margin="10 0" Foreground="Gray" TextAlignment="Left" FontSize="25" FontFamily="Times New Roman" Opacity="0.8"/>
+                    <PasswordBox Name="txtPassword" Margin="10 0" Foreground="Black" Width="250" FontSize="20" KeyDown="txtPassword_KeyDown"/>
+                </StackPanel>
+                <StackPanel HorizontalAlignment="Center" Margin="10">
+                    <Button Width="100" Height="40" BorderThickness="2" BorderBrush="#D94448" Background="#D94448" Foreground="White" x:Name="btnSubmit" Click="btnSubmit_Click" Content="Login"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10 100 0 0" HorizontalAlignment="Center">
+                <TextBlock Text="No Account Yet?" Margin="10 0" Foreground="White" Width="177" FontSize="20" TextAlignment="Center" FontFamily="JPCS Engineering Font" Height="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10 5 0 0" HorizontalAlignment="Center">
+                <Button  Width="84" Height="35" BorderThickness="0" Background="{x:Null}" Foreground="White"  ToolTip="Login" x:Name="btnSignup" Click="btnSignup_Click" Content="Sign Up" FontFamily="Times New Roman"/>
+            </StackPanel>
+        </StackPanel>
+
+
+    </Border>
+</Window>

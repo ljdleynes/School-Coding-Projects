@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="UI.MVVM.View.AdminLibraryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="659" d:DesignWidth="770"
+             Background="#FFFDD0">
+
+    <Grid Margin="0" Background="#FFF0F0F0" >
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Name="dgUsers" IsTextSearchEnabled="True" IsReadOnly="True" RowDetailsVisibilityMode="Collapsed" AutoGenerateColumns="False" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Grid.ColumnSpan="2" Width="770" Margin="0,109,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header ="Title" Width="180" Binding="{Binding bookTitle}"/>
+                <DataGridTextColumn Header ="Author" Width="150" Binding="{Binding bookAuthor}"/>
+                <DataGridTextColumn Header ="Borrower's Name" Width="150" Binding="{Binding borrowersName}"/>
+                <DataGridTextColumn Header ="Return/Borrow Date" Width="200" Binding="{Binding returnDate}"/>
+                <DataGridTextColumn Header ="Book ID" Width="60" Binding="{Binding bookNumber}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button Content="View Returned Books" HorizontalAlignment="Left" Margin="38,27,0,0" VerticalAlignment="Top" Height="20" Width="118" Click="ReturnedBooks"/>
+        <Button Content="View Unreturned Books" HorizontalAlignment="Left" Margin="38,69,0,0" VerticalAlignment="Top" Click="UnreturnedBooks"/>
+        <RadioButton x:Name="radio_overall" Content="Overall" Grid.Column="1" HorizontalAlignment="Left" Margin="33,33,0,0" VerticalAlignment="Top"/>
+
+        <RadioButton x:Name="radio_month" Content="Last 30 Days" Grid.Column="1" HorizontalAlignment="Left" Margin="33,67,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</UserControl>

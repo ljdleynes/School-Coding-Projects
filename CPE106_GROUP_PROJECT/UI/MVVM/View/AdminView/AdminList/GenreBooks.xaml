@@ -1,0 +1,45 @@
+﻿<Window x:Class="UI.MVVM.View.GenreBooks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.MVVM.View"
+        mc:Ignorable="d"
+        Title="List of Books Per Genre" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.ColumnSpan="3">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem x:Name="sortGenre" Header="_Sort by Major Genre">
+                    <MenuItem x:Name="menuAAA" Header="_Action and Adventure" Click="ActivateAAA"/>
+                    <MenuItem x:Name="menuC" Header="_Classics" Click="ActivateC" />
+                    <MenuItem x:Name="menuDAM" Header="_Detective and Mysteries" Click="ActivateDAM"/>
+                    <MenuItem x:Name="menuF" Header="_Fantasy" Click="ActivateF" />
+                    <MenuItem x:Name="menuH" Header="_Horror" Click="ActivateH" />
+
+
+                    <Separator />
+                    <MenuItem Click="CloseGenre" Header="_Exit" />
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+
+        <DataGrid Name="GenreBooksList" AutoGenerateColumns="False" IsTextSearchEnabled="True" IsReadOnly="True" Margin="0,40,0,0" Grid.ColumnSpan="3" RowDetailsVisibilityMode="Collapsed">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="200" Header="Title" Binding="{Binding bookName}" />
+                <DataGridTextColumn Width="120" Header="Author" Binding="{Binding author}" />
+                <DataGridTextColumn Width="150" Header="Date Published" Binding="{Binding publicationDate}" />
+                <DataGridTextColumn Width="168" Header="Book Id" Binding="{Binding BookId}" />
+                <DataGridTextColumn Width="168" Header="Genre" Binding="{Binding bookGenre}" />
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Label x:Name="selectedGenreLabel" Content="" HorizontalAlignment="Left" Margin="1,-4,0,0" VerticalAlignment="Top" Foreground="#FF4F7978" Height="25" Width="496" Grid.Column="1" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,116 @@
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.exe
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.deps.json
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.json
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.dev.json
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\ref\UI.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\UI.pdb
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\ClickButtons\Library.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\ClickButtons\ListLogs.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\ClickButtons\Profile.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\AdminView.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\LogIn.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\SignUpWindow.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\App.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.cache
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.lref
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\App.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\AdminView.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\LogIn.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\SignUpWindow.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.g.resources
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.AssemblyInfoInputs.cache
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.AssemblyInfo.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\ref\UI.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.pdb
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.genruntimeconfig.cache
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.csproj.AssemblyReference.cache
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.g.cs
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.baml
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Documents\2nd year college\3rd sem\CPE106\UI\UI\obj\Debug\net5.0-windows\UI.csproj.CopyComplete
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.exe
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.deps.json
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.json
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.dev.json
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\ref\UI.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\UI.pdb
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\ClickButtons\Library.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\ClickButtons\ListLogs.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\ClickButtons\Profile.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\AdminView.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\LogIn.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\SignUpWindow.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.cache
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.lref
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\App.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\AdminView.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\LogIn.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\SignUpWindow.baml
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.g.resources
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.AssemblyInfo.cs
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.csproj.CopyComplete
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\ref\UI.dll
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.pdb
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.genruntimeconfig.cache
+C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.csproj.AssemblyReference.cache

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="UI.MVVM.View.Classics">
+    <Position X="1.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\Classics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.DetectiveAndMysteries">
+    <Position X="4" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\DetectiveAndMysteries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.Fantasy">
+    <Position X="6.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\Fantasy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.Horror">
+    <Position X="9.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\Horror.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.AdminProfileView">
+    <Position X="6.75" Y="5.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminProfileView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.SignUpWindow">
+    <Position X="16" Y="6.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>SignUpWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.AdminView">
+    <Position X="1" Y="10.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAQAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>AdminView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.LogIn">
+    <Position X="1.25" Y="5.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAA=</HashCode>
+      <FileName>LogIn.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.AdminLogs">
+    <Position X="17.75" Y="8.5" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="UI.MVVM.View.AdminLogs.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MVVM\View\AdminView\AdminLogs.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAMAAmIABIBAIAEAQAAgAACAQIiIAAAAAQACABgA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminLogs.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.AdminLibraryView">
+    <Position X="20.5" Y="6" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="UI.MVVM.View.AdminLibraryView.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MVVM\View\AdminView\AdminLibraryView.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminLibraryView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.ManageBorrowers">
+    <Position X="1.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\ManageBorrowers.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.Manage">
+    <Position X="3.25" Y="3.25" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\Manage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.GenreBooks">
+    <Position X="8.75" Y="10.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAIAAAAAABAAAAAABAAACAAAAAAAAAAgACAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\GenreBooks.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.GenerateList">
+    <Position X="22.25" Y="12.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\GenerateList.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.ActionAndAdventure">
+    <Position X="6" Y="11.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\ActionAndAdventure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.BorrowedBooksMonth">
+    <Position X="22.25" Y="9.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAACAQAAAAAACAAIAAAAAAAABAAAAAAAAAgAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\BorrowedBooksMonth.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.BookInfo">
+    <Position X="23.25" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAiAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\BookInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI.MVVM.View.AllBooks__Window1_">
+    <Position X="1" Y="13.75" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="UI.MVVM.View.AllBooks__Window1_.BookDetail" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MVVM\View\AdminView\AdminList\AllBooks (Window1).xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgQI=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\AllBooks (Window1).xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UI.MVVM.View.AdminList">
+    <Position X="6.25" Y="15" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAIAAQA=</HashCode>
+      <FileName>MVVM\View\AdminView\AdminList\AdminList.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

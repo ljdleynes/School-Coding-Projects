@@ -1,0 +1,138 @@
+﻿<Window x:Class="UI.AdminView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        xmlns:viewModel="clr-namespace:UI.MVVM.View"
+        mc:Ignorable="d"
+        Height="800" Width="920"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        Title="Group 6 Library"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        >
+    <Window.DataContext>
+        <viewModel:AdminViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Border Background="#CCCCFF"
+            CornerRadius="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Grid.ColumnSpan="2" Background="Aquamarine" MouseDown="Border_MouseDown">
+                    <Grid HorizontalAlignment="Stretch">
+                        <Label
+                        Foreground="Red"
+                        FontWeight="SemiBold"
+                        
+                        >Group 6 Library</Label>
+                        <StackPanel HorizontalAlignment="Right"
+                                Orientation="Horizontal">
+                            <Button Width="20" 
+                                Height="20"
+                                Content="🗕"
+                                Background="Transparent"
+                                BorderThickness="0"
+                                Foreground="Red"
+                                Click="Minimize_Click"
+                                />
+
+                            <Button Width="20" 
+                                Height="20"
+                                Content="❌"
+                                Background="Transparent"
+                                BorderThickness="0"
+                                Foreground="Red"
+                                Click="Close_Click"                                />
+                        </StackPanel>
+
+                    </Grid>
+
+                </Border>
+
+                <StackPanel Grid.Row="1">
+                    <Image Height ="90" Source="/Images/ManBook.png"></Image>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2">
+                    <RadioButton
+                    Content="Profile"
+                    Height="50"
+                    FontSize="17"
+                    Style="{StaticResource Profile}"
+                    IsChecked="True"
+                    Command="{Binding ProfileViewCommand}" 
+                    FontFamily="Showcard Gothic"
+                    >
+
+                    </RadioButton>
+
+                    <RadioButton
+                    Content="Library"
+                    Height="50"
+                    FontSize="17"
+                    Style="{StaticResource Library}" 
+                    Command="{Binding LibraryViewCommand}" 
+                    FontFamily="Showcard Gothic"
+                    />
+                    <RadioButton
+                    Content="List"
+                    Height="50"
+                    FontSize="17"
+                    Command="{Binding ListViewCommand}"
+                    Style="{StaticResource ListLogs}"
+                    FontFamily="Showcard Gothic"
+                    />
+                    <RadioButton
+                    Content="Logs"
+                    Height="50"
+                    FontSize="17"
+                    Command="{Binding LogsViewCommand}"
+                    Style="{StaticResource ListLogs}"
+                    FontFamily="Showcard Gothic"
+                    />
+
+                    <Button Margin ="0,430,0,0" Height="50" HorizontalContentAlignment="Left" Click="Button_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="30" Source="https://cdn.icon-icons.com/icons2/1509/PNG/512/systemshutdown_104277.png" />
+                            <Label FontSize ="20" Content="Logout" FontFamily="Showcard Gothic"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+                <StackPanel Orientation ="Horizontal" Grid.Column="1" Grid.Row="1">
+    
+                    <Image
+                    Height="100"
+                    Source="Images/KidReading.png" 
+                    />
+
+                    <Image  VerticalAlignment="Stretch"
+                    HorizontalAlignment="Stretch"
+                    Height="100"
+                    Margin="510,0,0,0"
+                    Grid.Column="1"
+                    Source="http://clipart-library.com/new_gallery/library-clipart-6.gif" 
+                    />
+
+                </StackPanel>
+                <ContentControl Grid.Column="1"
+                            Grid.Row="2"
+                            Content ="{Binding PresentViewZ}"
+                            />
+            </Grid>
+
+
+
+        </Border>
+    </Grid>
+</Window>
