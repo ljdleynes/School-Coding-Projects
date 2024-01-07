@@ -51,7 +51,7 @@ int main ()
 		++count;
 		system ("cls");//[AMO] and [DRS] This erases the cards in the previous rounds to give space to the next round
 		bingCard.DisplayRandomNumber (count, mainRandomNumber); //[LJL] Function That Display Round And The Generated Random Number
-		bingCard.MarkTheCard (mainRandomNumber); //Call a Funtion to Mark The Bingo Card
+		bingCard.MarkTheCard (mainRandomNumber); //Call a Function to Mark The Bingo Card
 		bingCard.CheckVerHorDiag (checkIfBingo, playerNum); //CheckIfBingo will get the Return Value
 		if (checkIfBingo == true)
 		{

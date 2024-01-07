@@ -1,16 +1,16 @@
-﻿
-FC:\Users\User\Documents\Library Management System\Mod3\UI\App.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\AdminView.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\LogIn.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminLibraryView.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\AdminList.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\AllBooks (Window1).xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\GenerateList.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\GenreBooks.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\Manage.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminList\ManageBorrowers.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminLogs.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\MVVM\View\AdminView\AdminProfileView.xaml;;
-FC:\Users\User\Documents\Library Management System\Mod3\UI\SignUpWindow.xaml;;
+﻿C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\App.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\AdminView.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\LogIn.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminLibraryView.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\AdminList.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\AllBooks (Window1).xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\GenerateList.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\GenreBooks.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\Manage.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminList\ManageBorrowers.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminLogs.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\MVVM\View\AdminView\AdminProfileView.xaml;;
+FC:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\SignUpWindow.xaml;;
 

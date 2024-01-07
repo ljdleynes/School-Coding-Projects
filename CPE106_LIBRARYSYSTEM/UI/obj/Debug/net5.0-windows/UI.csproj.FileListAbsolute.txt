@@ -114,3 +114,62 @@ C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windo
 C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.pdb
 C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.genruntimeconfig.cache
 C:\Users\User\Documents\Library Management System\Mod3\UI\obj\Debug\net5.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.exe
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.deps.json
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\UI.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\ClickButtons\Library.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\ClickButtons\ListLogs.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\ClickButtons\Profile.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\AdminView.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\LogIn.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\SignUpWindow.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI_MarkupCompile.lref
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\App.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\AdminView.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\LogIn.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLibraryView.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AdminList.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\AllBooks (Window1).baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\BorrowedBooksMonth.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenerateList.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\GenreBooks.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\Manage.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminList\ManageBorrowers.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminLogs.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\MVVM\View\AdminView\AdminProfileView.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\SignUpWindow.baml
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.g.resources
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.sourcelink.json
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\refint\UI.dll
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.pdb
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\UI.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\GitHub\School-Coding-Projects\CPE106_LIBRARYSYSTEM\UI\obj\Debug\net5.0-windows\ref\UI.dll
